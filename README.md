@@ -45,3 +45,5 @@ REST API built with Node.js, Express, MongoDB (Mongoose) and dotenv.
 ![Delete](screenshots/delete.jpeg)
 ### 9. Filter + Sort + Pagination (GET)
 ![Filter Sort](screenshots/filter-sort.jpeg)
+### 10. Get Single Product by ID (GET)
+![Get One](screenshots/get-one.jpeg)
