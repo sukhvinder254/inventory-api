@@ -43,3 +43,5 @@ REST API built with Node.js, Express, MongoDB (Mongoose) and dotenv.
 
 ### 8. Delete Product (DELETE)
 ![Delete](screenshots/delete.jpeg)
+### 9. Filter + Sort + Pagination (GET)
+![Filter Sort](screenshots/filter-sort.jpeg)
